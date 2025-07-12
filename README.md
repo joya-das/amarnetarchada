@@ -1,10 +1,10 @@
 
-<h1 align="center">🇧🇩 Deshneta</h1>
+<h1 align="center">🇧🇩 Amar Netar Chada</h1>
 <p align="center"><b>Bengali Political Chanda Calculator</b></p>
 <p align="center">🧮 A satirical, meme-powered donation calculator for fictional netas 🎭</p>
 
 <p align="center">
-  <a href="https://deshneta.pages.dev" target="_blank">
+  <a href="https://amarnetarchada.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Live-Demo-blue?style=flat-square&logo=cloudflare&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Language-Bengali-orange?style=flat-square" />
@@ -15,14 +15,14 @@
 <br/>
 
 <p align="center">
-  <img src="https://deshneta.pages.dev/preview.png" alt="Deshneta Banner" width="100%" />
+  <img src="https://amarnetarchada.vercel.app/preview.png" alt="" width="100%" />
 </p>
 
 ---
 
 ## 🧠 About
 
-**Deshneta** is a Bengali web tool that humorously calculates your monthly “চাঁদা” (donation) to a fictional political movement. It’s inspired by meme culture and the absurdities of local politics — delivered with love, sarcasm, and a megaphone.
+**Amar Netar Chada** is a Bengali web tool that humorously calculates your monthly “চাঁদা” (donation) to a fictional political movement. It’s inspired by meme culture and the absurdities of local politics — delivered with love, sarcasm, and a megaphone.
 
 > Give chanda. Get sarcasm. Repeat. 💸📣
 
@@ -54,7 +54,7 @@
 
 ## 🔗 Live Site
 
-➡️ [**https://deshneta.pages.dev**](https://deshneta.pages.dev)
+➡️ [**https://amarnetarchada.vercel.app/**](https://amarnetarchada.vercel.app/)
 
 No install needed. Just open and start calculating your loyalty 😄
 
@@ -72,7 +72,6 @@ deshneta/
 ├── deshneta.html         # Main App
 ├── preview.png           # OG Social Image
 ├── favicon.png           # Browser icon
-├── ss1.png / ss2.png     # Screenshots
 └── README.md             # This file
 ````
 
